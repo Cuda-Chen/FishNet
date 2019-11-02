@@ -9,7 +9,7 @@ $ conda create -n keras_fishnet python=3.6 pip
 $ conda activate keras_fishnet
 $ pip install -r requirements.txt
 ```
-3. Run the [classification with SVM](noteboot/demo-svm.ipynb) demo (be sure to start ```jupyter notebook```!!!)
+3. Run the [classification with SVM](notebook/demo-svm.ipynb) demo (be sure to start ```jupyter notebook```!!!)
 
 # Reference
 1. FaceNet
