@@ -6,3 +6,5 @@ tensorflow==1.13.1
 keras==2.1.6
 scikit-image
 imageio
+h5py
+jupyter
