@@ -2,7 +2,7 @@ numpy
 matplotlib
 opencv-python
 scikit-learn
-tensorflow==1.13.1
+tensorflow==2.9.3
 keras==2.1.6
 scikit-image
 imageio
